@@ -76,7 +76,9 @@ print("Thanks for playing!")
 ```
 ## OUTPUT:
 ![Screenshot 2025-05-04 132922](https://github.com/user-attachments/assets/322e2a9e-be14-4756-bec5-e2bfbf77a37b)
-![Screenshot 2025-05-04 132943](https://github.com/user-attachments/assets/2c17c85a-c435-4a01-b08d-ab12e81ecc04)
+![Screenshot 2025-05-04 132943](https://github.com/user-attachments/assets/2c17c85a-c435-4a01-b08d-ab12e81ecc04
+![image](https://github.com/user-attachments/assets/3beac5ac-5d19-446b-a71f-37019eee520a)
+
 
 
 
